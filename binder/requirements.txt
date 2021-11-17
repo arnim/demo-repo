@@ -1,7 +1,2 @@
-jupyterlab>=3.0
-plotly
+jupytext
 matplotlib
-wordcloud
-pandas
-wbdata
-bash_kernel
